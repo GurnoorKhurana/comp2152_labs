@@ -81,6 +81,15 @@ loot_options = ["Health Potion", "Poison Potion", "Secret Note", "Leather Boots"
 good_loot_options = ["Health Potion", "Leather Boots"]
 bad_loot_options = ["Poison Potion"]
 
+
+#LAB04 -- 01
+#Define the Monster Power:
+monster_powers = {
+    "Fire Magic": 2,
+    "Freezinf Time": 4,
+    "Super Hearing": 26
+}
+
 # Define the number of stars awarded to the Player
 num_stars = 0
 
