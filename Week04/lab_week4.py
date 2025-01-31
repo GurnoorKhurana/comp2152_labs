@@ -87,7 +87,7 @@ bad_loot_options = ["Poison Potion"]
 monster_powers = {
     "Fire Magic": 2,
     "Freezinf Time": 4,
-    "Super Hearing": 26
+    "Super Hearing": 6
 }
 
 # Define the number of stars awarded to the Player
