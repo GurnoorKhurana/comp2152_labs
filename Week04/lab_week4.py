@@ -153,7 +153,7 @@ print("Player rolled " + str(health_points) + " health points")
 # Roll for monster health points
 input("Roll the dice for the monster's health points (Press enter)")
 m_health_points = random.choice(diceOptions)
-print("Player rolled " + str(m_health_points) + " health points for the monster")
+print("Player rolled " + str(m_health_points) + " helth points for the monster")
 
 # Lab 04 - Q5 item 1
 print("You find a loot bag! Look inside to find 2 items.")
